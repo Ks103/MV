@@ -1,11 +1,16 @@
 /********** Template CSS **********/
+.body{
+margin: 10px;
+padding: 10px;
+background: #aa0bdf;
+}
+
 :root {
     --primary: #06A3DA;
     --secondary: #34AD54;
     --light: #EEF9FF;
     --dark: #091E3E;
 }
-
 .service-icon {
     display: flex;
     align-items: center;
